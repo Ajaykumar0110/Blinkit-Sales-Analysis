@@ -106,10 +106,10 @@ To conduct a comprehensive analysis of Blinkit's sales data to identify performa
 
 ## 👨‍💻 Author
 
-**Gembali Rohit**  
-Aspiring AI/ML Engineer | Data Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/rohit-gembali)  
-📂 [Project Repository](https://github.com/gembalirohit/my-datascience-projects)
+**Amarala Ajay Kumar**  
+Aspiring Data Scientist
+📫 [LinkedIn](https://www.linkedin.com/in/ajaykumar-amarala)  
+📂 [Project Repository](https://github.com/Ajaykumar0110/Blinkit-Sales-Analysis)
 
 ---
 
